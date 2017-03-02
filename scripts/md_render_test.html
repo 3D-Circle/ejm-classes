@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <textarea id="text-input" oninput="this.editor.update()"
+              rows="6" cols="60">Type **Markdown** here.</textarea>
+    <div id="preview"> </div>
+    <script src="https://cdn.rawgit.com/showdownjs/showdown/1.6.3/dist/showdown.min.js"></script>
+    <script>
+      function Editor(input, preview) {
+        this.renderer = new showdown.Converter(),
+        this.update = function () {
+          preview.innerHTML = this.renderer.makeHtml(input.value, "Maruku");
+        };
+        input.editor = this;
+        this.update();
+      }
+      var avar = function (id) { return document.getElementById(id); };
+      new Editor(avar("text-input"), avar("preview"));
+    </script>
+  </body>
+</html>
