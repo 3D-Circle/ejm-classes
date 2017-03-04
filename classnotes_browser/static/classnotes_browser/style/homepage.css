@@ -6,13 +6,7 @@ body {
   text-align: center;
   font-size: 36px;
   padding: 70px 0px 30px 0px;
-/*  position: absolute;*/
   background: whitesmoke;
-/*
-  top: 0;
-  left: 0;
-  right: 0;
-*/
   border-radius: 10px;
 }
 
@@ -21,4 +15,15 @@ body {
   margin-top: 10px;
   background: #cfd6da;
   font-size: 20px;
+  text-align: center;
+  clear: both;
+}
+
+.subject_choice {
+  background: #a5d676;
+  border: none;
+  font-size: 23px;
+  padding: 10px 30px;
+  display: block;
+  border-radius: 7px;
 }
