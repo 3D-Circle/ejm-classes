@@ -1,1 +1,1 @@
-web: gunicorn ejm_classes/ejm_classes.wsgi --log-file -
+web: gunicorn ejm_classes.wsgi --log-file -
