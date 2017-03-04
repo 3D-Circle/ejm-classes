@@ -15,20 +15,19 @@
         <p>
             Testing markdown rendering:
         </p>
-        <div class="md_ouptut">
+        <div id="md_ouptut">
             <script>
                 var output = document.getElementById("md_output");
                 var renderer = new showdown.Converter();
-                getTxt = function (){
+                $(document).ready(getTxt = function (){
                     $.ajax({
                         url: 'README.md',
                         success: function (data){
                             console.log(data);
+                            output.innerHTML = renderer.makeHtml(data);
                         }
                     });
-                }
-                getTxt();
-//                output.innerHTML = renderer.makeHtml();
+                });
             </script>
         </div>
     </div>
