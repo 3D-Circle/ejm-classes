@@ -13,6 +13,7 @@ def homepage(request):
 
 
 def render_md(request, cours, name):
+    print([i[0] for i in os.walk(".")])
     with open("classnotes_browser/static/classnotes_browser/md_src/{}/{}.md".format(cours, name)) as f:
         content = markdown.markdown(f.read())
         print(content)
