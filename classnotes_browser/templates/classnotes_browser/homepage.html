@@ -13,11 +13,16 @@
         Welcome ! Here be interesting class notes.
     </div>
     <div id="content">
-        Choose amongst the choice !
-        <div class="button_table">
-            <button class="subject_choice">
-                SES
-            </button>
+        <div id="button_grid">
+            {% for row in subj_list %}
+                <div class="button_row">
+                    {% for subject in row %}
+                        <button class="subject_choice" onclick="">
+                            {{subject}}
+                        </button>
+                    {% endfor %}
+                </div>
+            {% endfor %}
         </div>
     </div>
 </body>

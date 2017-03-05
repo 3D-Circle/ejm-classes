@@ -19,11 +19,17 @@ body {
   clear: both;
 }
 
+#button_grid {
+  box-sizing: border-box;
+  margin-top: 30px;
+}
+
 .subject_choice {
+  margin: 10px 20px;
+  display: inline-block;
   background: #a5d676;
   border: none;
   font-size: 23px;
   padding: 10px 30px;
-  display: block;
   border-radius: 7px;
 }
