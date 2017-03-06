@@ -1,10 +1,12 @@
 ## Sciences Économiques et Sociales
 # Chapitre 1: Entreprise et Production
-* L'entreprise est une <\<organisation dont l'activité principale consiste à produire des biens et des services marchands>> .
 
-	>**organisation**: ensemble d'individus  
-	>**produire des biens**: création des richesses  
-	>**et des services marchands**: sont vendus sur un marché pour réaliser un certain **profit**
+Défintion d'une entreprise:
+> Organisation dont l'activité principale consiste à produire des biens et des services marchands.
+
+>**organisation**: ensemble d'individus  
+**produire des biens**: création des richesses  
+**et des services marchands**: sont vendus sur un marché pour réaliser un certain **profit**
 
 * Exemples: 
 	* Apple
