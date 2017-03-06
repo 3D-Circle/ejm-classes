@@ -11,44 +11,44 @@ Défintion d'une entreprise:
 * Exemples: 
 	* Apple
 		* Hi-tech => grand public  
-			-biens:
-				
-				* ordinateurs
-				* téléphones
-				* tablettes
-				* écouteurs
-				* montres  
-			-services:
-				
-				* Appli
-				* logiciels
-				* SAV
-				* iCloud
+
+				- biens	
+				 * ordinateurs
+				 * téléphones
+				 * tablettes
+				 * écouteurs
+				 * montres  
+
+			    - services:
+				 * Appli
+				 * logiciels
+				 * SAV
+				 * iCloud
 	* Google
 		* Accès à l'information  
-			-services:
 				
-				* google
-				* maps
-				* translate
-				* gmail
-				* drive
-			-biens:
-				
-				* google glasses  
-				* chromecast
-				* chromebook
+				- services:
+				 * google
+				 * maps
+				 * translate
+				 * gmail
+				 * drive
+			    
+				- biens:
+				 * google glasses  
+			 	 * chromecast
+				 * chromebook
 	
 	* Maeder & Cie
 		* Boulangerie Alsacienne => produits alimentaires
-			-biens:
-			
-				* pain
-				* patisserie
-				* sandwichs
-			-services:
 				
-				* (livraison)
+				- biens:			
+				 * pain
+				 * patisserie
+				 * sandwichs
+			
+				- services:
+				 * (livraison)
 
 ## I. Qui produit les richesses?
 ### A. Les entreprises
@@ -83,6 +83,8 @@ activité socialement organisée qui combine des facteurs de production (travail
 	>- la date
 	>- la **donnée** avec sa signification
 
+	> Ex:
+	> Selon _source_, en _lieu_, en _date_, _explication des données_
 
 	**c. La production marchande et production non marchande:**
 	
@@ -91,7 +93,9 @@ activité socialement organisée qui combine des facteurs de production (travail
 	- *Production non marchande:*
 		production fournie à la collectivité à titre gratuit ou quasi-gratuit, c'est-à-dire dont le prix représente moins de 50% des coûts de production.  
 
+
 3. Les différents types d'entreprise (voir <a href="Ch1EntreprisesEx.pdf">fiche distribuée</a>)  
+	
 	**a. Les secteurs d'activité**
 	- le secteur ***primaire***:  
 		- l'ensemble des activités dont la finalité consiste en une exploitation des ressources naturelles.  
