@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> {{ title }}</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'classnotes_browser/style/homepage.css' %}" >
+</head>
+<body>
+    <div id="topbar">
+        {{ title }}
+    </div>
+    <div id="content">
+        <div id="button_grid">
+            {% for row in cours_list %}
+                <div class="button_row">
+                    {% for cours in row %}
+                        <a href="{{ cours.link }}">
+                            <button class="subject_choice">
+                                {{ cours.name }}
+                            </button>
+                        </a>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
