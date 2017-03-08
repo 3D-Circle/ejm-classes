@@ -26,7 +26,7 @@ def render_md(request, cours, name):
 
 def cours_dir(request, subject):
     cours_available = chunker(
-        [i.split("\\")[-1].split(".")[0].replace("_", " ") for i in glob.glob("{}/{}/*".format(MD_ROOT, subject))],
+        [i.split("\\")[-1].split(".")[0] for i in glob.glob("{}/{}/*".format(MD_ROOT, subject))],
         3
     )
     return render(
@@ -35,7 +35,7 @@ def cours_dir(request, subject):
         {
             "title": subject, "cours_list": [[
                 {
-                    "name": name, "link": name.replace(" ", "_")
+                    "name": name.replace("_", " "), "link": name
                 } for name in triplet] for triplet in cours_available
             ]
         }
