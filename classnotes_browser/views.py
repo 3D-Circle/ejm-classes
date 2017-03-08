@@ -13,7 +13,7 @@ def chunker(seq, size):
 def homepage(request):
     print(glob.glob("{}*/".format(MD_ROOT)))
     subjects_available = [
-        i.split(seperator)[-2] for i in glob.glob("{}*/".format(MD_ROOT))
+        i.split(seperator)[-1] for i in glob.glob("{}*/".format(MD_ROOT))
     ]
     subjects_available = chunker(subjects_available, 3)
     print(subjects_available)
