@@ -187,7 +187,7 @@ Elle se calcule en divisant la production par l’un des facteurs de production 
 - `Le salaire`
 - `L'excédent brut d'exploitation` (profit)
 
-![Valeur de la production de l'entreprise](src/repart-VA.jpg)
+![Valeur de la production de l'entreprise](./src/repart-VA.jpg)
 
 * **Amortissement** - coût annuel de l'usage du capital  
 *ex.* achat d'une machine 1 000 000 € qui sera utilisée 10 ans  
