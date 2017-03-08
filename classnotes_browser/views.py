@@ -27,7 +27,7 @@ def render_md(request, cours, name):
 
 def cours_dir(request, subject):
     cours_available = chunker(
-        [i.split(seperator)[-1].split(".")[0] for i in glob.glob("{}/{}/*".format(MD_ROOT, subject))],
+        [i.split(seperator)[-1].split(".")[0] for i in glob.glob("{}/{}/*".format(MD_ROOT, subject)) if "." in i],
         3
     )
     return render(
