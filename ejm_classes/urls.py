@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """ejm_classes URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
