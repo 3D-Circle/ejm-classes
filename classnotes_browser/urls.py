@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+"""Dynamically generate url for markdown files"""
 from django.conf.urls import url
 from . import views
 
