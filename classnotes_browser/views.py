@@ -33,6 +33,18 @@ def render_md(request, cours, name):
     return render(request, "classnotes_browser/md_display.html", {"title": name, "md_in": content})
 
 
+def show_img(request, subject, img_name):
+    """shows an image"""
+    return render(
+        request,
+        "classnotes_browser/image_renderer.html",
+        {
+            "title": img_name,
+            "link": "{}{}/{}".format(MD_ROOT, subject, img_name)
+        }
+    )
+
+
 def cours_dir(request, subject):
     """generate links to markdown files"""
     cours_available = chunker(
