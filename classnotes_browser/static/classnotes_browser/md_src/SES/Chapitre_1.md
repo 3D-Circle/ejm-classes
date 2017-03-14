@@ -1,54 +1,52 @@
 ## Sciences Économiques et Sociales
 # Chapitre 1: Entreprise et Production
+* L'entreprise est une <\<organisation dont l'activité principale consiste à produire des biens et des services marchands>> .
 
-Défintion d'une entreprise:
-> Organisation dont l'activité principale consiste à produire des biens et des services marchands.
-
->**organisation**: ensemble d'individus  
-**produire des biens**: création des richesses  
-**et des services marchands**: sont vendus sur un marché pour réaliser un certain **profit**
+	>**organisation**: ensemble d'individus  
+	>**produire des biens**: création des richesses  
+	>**et des services marchands**: sont vendus sur un marché pour réaliser un certain **profit**
 
 * Exemples: 
 	* Apple
 		* Hi-tech => grand public  
-
-				- biens	
-				 * ordinateurs
-				 * téléphones
-				 * tablettes
-				 * écouteurs
-				 * montres  
-
-			    - services:
-				 * Appli
-				 * logiciels
-				 * SAV
-				 * iCloud
+			-biens:
+				
+				* ordinateurs
+				* téléphones
+				* tablettes
+				* écouteurs
+				* montres  
+			-services:
+				
+				* Appli
+				* logiciels
+				* SAV
+				* iCloud
 	* Google
 		* Accès à l'information  
+			-services:
 				
-				- services:
-				 * google
-				 * maps
-				 * translate
-				 * gmail
-				 * drive
-			    
-				- biens:
-				 * google glasses  
-			 	 * chromecast
-				 * chromebook
+				* google
+				* maps
+				* translate
+				* gmail
+				* drive
+			-biens:
+				
+				* google glasses  
+				* chromecast
+				* chromebook
 	
 	* Maeder & Cie
 		* Boulangerie Alsacienne => produits alimentaires
-				
-				- biens:			
-				 * pain
-				 * patisserie
-				 * sandwichs
+			-biens:
 			
-				- services:
-				 * (livraison)
+				* pain
+				* patisserie
+				* sandwichs
+			-services:
+				
+				* (livraison)
 
 ## I. Qui produit les richesses?
 ### A. Les entreprises
@@ -83,8 +81,6 @@ activité socialement organisée qui combine des facteurs de production (travail
 	>- la date
 	>- la **donnée** avec sa signification
 
-	> Ex:
-	> Selon _source_, en _lieu_, en _date_, _explication des données_
 
 	**c. La production marchande et production non marchande:**
 	
@@ -93,9 +89,7 @@ activité socialement organisée qui combine des facteurs de production (travail
 	- *Production non marchande:*
 		production fournie à la collectivité à titre gratuit ou quasi-gratuit, c'est-à-dire dont le prix représente moins de 50% des coûts de production.  
 
-
 3. Les différents types d'entreprise (voir <a href="Ch1EntreprisesEx.pdf">fiche distribuée</a>)  
-	
 	**a. Les secteurs d'activité**
 	- le secteur ***primaire***:  
 		- l'ensemble des activités dont la finalité consiste en une exploitation des ressources naturelles.  
@@ -158,7 +152,7 @@ Le capital sera lui
 
 #### 2. Le choix de la combinaison productive
 
-<img src="../src/ProductionSchema.png" alt="Schéma">
+<img src="Source/ProductionSchema.png" alt="Schéma">
 
 ##### Remarque:
 
@@ -187,7 +181,7 @@ Elle se calcule en divisant la production par l’un des facteurs de production 
 - `Le salaire`
 - `L'excédent brut d'exploitation` (profit)
 
-![Valeur de la production de l'entreprise](..   /src/repart-VA.jpg)
+![Valeur de la production de l'entreprise](./src/repart-VA.jpg)
 
 * **Amortissement** - coût annuel de l'usage du capital  
 *ex.* achat d'une machine 1 000 000 € qui sera utilisée 10 ans  

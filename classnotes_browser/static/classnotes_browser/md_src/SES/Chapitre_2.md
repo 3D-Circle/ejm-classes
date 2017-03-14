@@ -78,13 +78,13 @@ Rappel:
 	
 Exemple: Si le revenu passe de 1 000 € à 1 100 €: 
 
-((1 100 - 1 000) / 1 000) * 100 = + 10 %  
-Le revenu a donc augmenté de 10 %
+> ((1 100 - 1 000) / 1 000) * 100 = + 10 %  
+> Le revenu a donc augmenté de 10 %
 
 L'élasticité-revenu mesure la sensibilité de la demande à une variation du revenu
 
-	L'élasticité-revenu = Variation de la quantité demandé d'un bien (en %)
-						  --------------------------------------------------
+	                      Variation de la quantité demandée d'un bien (en %)
+	L'élasticité-revenu = --------------------------------------------------
 		  						   	Variation du revenu (en %)
  		  						  	
 **Remarque**: pas d'unité
@@ -98,7 +98,7 @@ L'élasticité-revenu de la demande de ce bien est de 0,5.
 
 - Lorsque l'élasticité est < 0, on dit que les biens sont **inférieurs**
 	- Ex: produits bas de gamme
-- Lorsque 0 ≤ e<sub>r</sub>r ≤ 1, les biens sont dits **normaux**
+- Lorsque 0 ≤ e<sub>r</sub> ≤ 1, les biens sont dits **normaux**
 	- Ex: les biens les plus courants
 	- cas particulier: e<sub>r</sub> = 0
 - Lorsque e<sub>r</sub> > 1, les biens sont dits **supérieurs**
@@ -108,3 +108,53 @@ L'élasticité-revenu de la demande de ce bien est de 0,5.
 # III. L'influence des prix sur la consommation
 Comment évolue la demande d'un bien si son prix augmente?  
 Et si son prix diminue?
+
+L'élasticité-prix mesure la sensibilité de la demande à une variation de prix
+
+						 Variation de la quantité demandée d'un bien (en %)
+	L'élasticité-prix = ----------------------------------------------------
+           					 Variation du prix de ce bien (en %)
+
+*Ex:* Si la demande de téléphones diminue de 5 % suite à une augmentation du prix de ce bien de 2 %, alors:
+
+> e<sub>p</sub> = - 5 / 2 = -2, 5
+
+Remarque: généralement, e<sub>p</sub> < 0, c'est-à-dire qu'une augmentation du prix d'un bien conduit à la diminution de sa demande (et inversement)
+
+- Lorsque e<sub>p</sub> ≤ -1, la **demande est élastique**
+- Lorsque -1 < e<sub>p</sub> < 0, la **demande est inélastique**
+- (Lorsque e<sub>p</sub> = 0, la demande est indépendante)
+- =>  
+plus l'élasticité-prix est loin de 0, plus elle est forte;  
+plus elle est proche de 0, plus elle est faible.
+- *Situations exceptionnelles:* e<sub>p</sub> > 0
+	- 3 possibilités:
+		- *biens Veblen* -> bien de luxe dont l'attrait découle du prix
+		- *biens Giffen* -> bien de première nécessité dont les ménages sont dépendants
+		- *biens spéculatifs* -> plus le prix augmente, plus le prix risque d'augmenter par la suite.
+
+## Représentation graphique d'élasticité
+### Situation 1
+![élasticité 1](./src/elasticite1.png)
+
+> Dans le cas d'une courbe de demande très élastique, une petite variation ∆P des prix entraîne une large variation ∆Q de la quantité.
+> 
+> Si l'élasticité-prix de la demande est infinie, la courbe est horizontale et le prix est fixe. 
+
+**ATTENTION**: Sur un graphique qui représente une courbe de demande, le prix est représenté en ordonné (axe vertical) et la quantité est représentée en abscisse (axe horizontal).  by[
+tv y
+**Remarque**:
+
+- la pente négative signale que 
+- la pente est très faible, presque horizontale, ce qui signale que e<sub>p</sub> < -1, c'est à dire que la demande est très élastique.
+
+### Situation 2
+![élasticité 2](./src/elasticite2.png)
+
+> Dans le cas d'une courbe de demande inélastique, une variation ∆P des prix entraîne une faible variation de ∆Q de la quantité.
+>
+> Si l'élasticité prix de la demande est nulle, la courbe est verticale et la quantité est fixe. 
+**Remarque**:
+
+- la pente négative originale que e<sub>p</sub> < 0
+- la pente est très forte, presque verticale, ce qui signale que -1 < e<sub>p</sub> < 0, c'est-à-dire que la demande est très inélastique.
