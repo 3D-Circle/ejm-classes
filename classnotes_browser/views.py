@@ -37,10 +37,10 @@ def show_img(request, subject, img_name):
     """shows an image"""
     return render(
         request,
-        "classnotes_browser/image_renderer.html",
+        "classnotes_browser/image_render.html",
         {
             "title": img_name,
-            "link": "{}{}/{}".format(MD_ROOT, subject, img_name)
+            "link": "{}{}/src/{}".format(MD_ROOT, subject, img_name)
         }
     )
 
