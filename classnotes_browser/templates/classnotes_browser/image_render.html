@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <title>{{ title }}</title>
+    {% load static %}
 </head>
 <body>
-    <img src="{{ link }}" alt="{{ title }}">
+    <img src="{% static link %}" alt="{{ title }}">
 </body>
 </html>

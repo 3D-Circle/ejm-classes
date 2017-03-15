@@ -7,6 +7,7 @@ import platform
 
 
 MD_ROOT = "classnotes_browser/static/classnotes_browser/md_src/"
+MD_SHORT_ROOT = "classnotes_browser/md_src/"
 separator = "/" if platform.system() != "Windows" else "\\"
 
 
@@ -40,7 +41,7 @@ def show_img(request, subject, img_name):
         "classnotes_browser/image_render.html",
         {
             "title": img_name,
-            "link": "{}{}/src/{}".format(MD_ROOT, subject, img_name)
+            "link": "{}{}/src/{}".format(MD_SHORT_ROOT, subject, img_name)
         }
     )
 
