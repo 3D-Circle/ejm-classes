@@ -1,5 +1,5 @@
 # ECONOMIE: INTRODUCTION
-<a href='programme.pdf'><img src='{{MEDIA_URL}}/media/icon.png'></a>
+<a href='programme.pdf'><img src='/static/classnotes_browser/md_src/SES/src/icon.png'></a>
 ## QU'EST-CE QUE L'ECONOMIE?
 `2016/09/07` mercredi
 ### À quoi sert l'économie?

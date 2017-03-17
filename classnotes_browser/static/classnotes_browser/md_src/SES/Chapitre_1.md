@@ -1,6 +1,6 @@
 ## Sciences Économiques et Sociales
 # Chapitre 1: Entreprise et Production
-* L'entreprise est une <\<organisation dont l'activité principale consiste à produire des biens et des services marchands>> .
+* L'entreprise est une «organisation dont l'activité principale consiste à produire des biens et des services marchands» .
 
 	>**organisation**: ensemble d'individus  
 	>**produire des biens**: création des richesses  
@@ -152,7 +152,7 @@ Le capital sera lui
 
 #### 2. Le choix de la combinaison productive
 
-<img src="../src/ProductionSchema.png" alt="Schéma">
+<img src="/static/classnotes_browser/md_src/SES/src/ProductionSchema.png" alt="Schéma">
 
 ##### Remarque:
 
@@ -181,7 +181,7 @@ Elle se calcule en divisant la production par l’un des facteurs de production 
 - `Le salaire`
 - `L'excédent brut d'exploitation` (profit)
 
-![Valeur de la production de l'entreprise](../src/repart-VA.jpg)
+![Valeur de la production de l'entreprise](/static/classnotes_browser/md_src/SES/src/repart-VA.jpg)
 
 * **Amortissement** - coût annuel de l'usage du capital  
 *ex.* achat d'une machine 1 000 000 € qui sera utilisée 10 ans  

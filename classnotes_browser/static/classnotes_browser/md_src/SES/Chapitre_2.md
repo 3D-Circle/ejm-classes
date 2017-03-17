@@ -135,7 +135,7 @@ plus elle est proche de 0, plus elle est faible.
 
 ## Représentation graphique d'élasticité
 ### Situation 1
-![élasticité 1](./src/elasticite1.png)
+![élasticité 1](/static/classnotes_browser/md_src/SES/src/elasticite1.png)
 
 > Dans le cas d'une courbe de demande très élastique, une petite variation ∆P des prix entraîne une large variation ∆Q de la quantité.
 > 
@@ -149,7 +149,7 @@ tv y
 - la pente est très faible, presque horizontale, ce qui signale que e<sub>p</sub> < -1, c'est à dire que la demande est très élastique.
 
 ### Situation 2
-![élasticité 2](./src/elasticite2.png)
+![élasticité 2](/static/classnotes_browser/md_src/SES/src/elasticite2.png)
 
 > Dans le cas d'une courbe de demande inélastique, une variation ∆P des prix entraîne une faible variation de ∆Q de la quantité.
 >
