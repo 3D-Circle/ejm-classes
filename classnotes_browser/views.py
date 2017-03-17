@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """Dynamically generate html for markdown files"""
 from django.shortcuts import render
+from django.http import HttpResponse
 import markdown
 import glob
 import platform
@@ -44,6 +45,7 @@ def show_img(request, subject, img_name):
             "link": "{}{}/src/{}".format(MD_SHORT_ROOT, subject, img_name)
         }
     )
+
 
 
 def cours_dir(request, subject):
