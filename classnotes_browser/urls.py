@@ -10,5 +10,4 @@ urlpatterns = [
     url(r'^$', views.homepage, name='homepage'),
     url(r'^cours/(\w+)/$', views.cours_dir, name="subject"),
     url(r'^cours/(\w+)/(\w+)/$', views.render_md, name="cours-file"),
-    url(r'^cours/(\w+)/src/(.+)/$', views.show_img, name="cours-image"),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
