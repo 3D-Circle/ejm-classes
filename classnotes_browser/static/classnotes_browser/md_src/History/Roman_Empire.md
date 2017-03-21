@@ -67,7 +67,7 @@ Why was the Roman Empire able to dominate for so long?
 
 ### Imperial mission
 - rarely recognize themselves as aggressors
-- _The only reason for waving wars is for we romans to live in peace._ - Cicero
+- _The only reason for waging wars is that we Romans may live in peace._ - Cicero
 
 ## Ch. 2 Imperial power
 parade of power: parade statue of the emperor -> godlike existence  
