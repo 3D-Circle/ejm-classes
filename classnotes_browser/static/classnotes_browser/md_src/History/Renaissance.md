@@ -42,7 +42,7 @@
 	- goes back to the 7 Greek liberal arts subjects: 
 		- *trivium*: grammar, logic, rhetorics
 		- *quadra*: arithmetic, astronomy, music, geometry
-	- study of the Green and Roman language, culture and philosophy
+	- study of the Greek and Roman language, culture and philosophy
 	- became central to the renaissance thought
 2. Church & State
 3. New Worlds
@@ -50,7 +50,7 @@
 5. Art
 
 ### Documentary: Da Vinci, the man who wanted to know everything
-[![an image](/static/classnotes_browser/md_src/History/src/da-vinci.jpg)](https://vimeo.com/61871817)
+[![Da vinci](/static/classnotes_browser/md_src/History/src/da-vinci.jpg)](https://vimeo.com/61871817)
 
 ## Ch 2 Humanism
 ### Movable printing press
@@ -140,10 +140,12 @@ Humanism
 - Renaissance: printing press spreads Ptolemy's *Geography*
 - impact: 
 	- *mappae mundi*
+		![mappae mundi](/static/classnotes_browser/md_src/History/src/mappae_mundi.jpg)
 		- the old map
 		- heavily based on religion and placed Jerusalem at the centre of the world (`p. 79`)  
 		- => mostly religious, little geographic information given;  
 	- Ptolemy's *Geography*: 
+		![Ptolemy's geography](/static/classnotes_browser/md_src/History/src/ptolemy_geography.jpg)
 		- missing: Americas, Australia / Oceana, Southern tip of Africa, parts of Asia
 		- flawed, yet contains much more information than *mappae mundi*
 		- => the basis of all geographical discoveries during the Renaissance
@@ -161,7 +163,7 @@ Humanism
 - Genoese navigator (`p. 84`)
 
 ##### Motivation
-- reach India by sea via a new, shorter route westwards (as opposed south0eastern route followed by the Portuguese)
+- reach India by sea via a new, shorter route westwards (as opposed south-eastern route followed by the Portuguese)
 - based himself on Ptolemy's maps, where 
 	- Americas don't exist
 	- the size of Asia is over-estimated
