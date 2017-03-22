@@ -63,7 +63,7 @@ Guiding question:
 
 > But who are these Greeks? What are *their* origins? Herodotus's engagement with this question - indeed, his very openness to engaging with it - reveals a different Herodotus from the storytelling Herodotus who has narrated the engaging tales of Gyges, of Croesus, of Cyrus. (p 27)
 
-<img src="/static/classnotes_browser/md_src/History/src/causality_c-and-g.png" style="width: 2400px; height: 600px;">
+<img src="/static/classnotes_browser/md_src/History/src/causality_C-and-G.png" style="width: 2400px; height: 600px;">
 - What is Herodotus's role with respect to source criticism?
 
 > Both in his storytelling mode and in his ethnographic mode, then, Herodotus manifests a strong belief that to understand history one must understand origins. He is aware that national pride leads people to offer sanitized versions of their origins that downplay racial mixture and cultural borrowing. Throughout *The Histories*, he engages with the origins of origins, noting that the traditions about traditions are suspect, and that we must always consider the source. Those who censure Herodotus for some of the taller tales in his text should remember his role in the foundation of source criticism. (p 28)
