@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Django settings for ejm_classes project on Heroku. For more info, see:
 https://github.com/heroku/heroku-django-template

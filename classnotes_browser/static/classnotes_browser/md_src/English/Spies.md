@@ -141,7 +141,7 @@ Example: `First Person`
 - *"Perhaps I'm the only one who still remembers. Or half-remembers. Glimpses of different things flash into my mind ..."* `p. 5`  
 - *"No, wait. I've got that wrong"* `p. 31`
 - *"Where did the policeman come in the story?"* `p.32`
-- *:Or is memory being overwritten by hindsight once more?"* `p. 33`
+- *"Or is memory being overwritten by hindsight once more?"* `p. 33`
 
 **Definition**: When the person telling the story does not know all the facts, does not remember all the facts or is concealing some of the facts, either from themselves or the reader, they are known as an unreliable narrator.
 
@@ -351,7 +351,7 @@ Start of chapter 5:
 ## Chapter 6
 ### Tension
 - Introduces a darker side of Keith and Stephen's spying
-- We are concerned for Stephen as he ventures into the darkness, "Night - the almost forgotten time. p.113
+- We are concerned for Stephen as he ventures into the darkness, "Night - the almost forgotten time." p.113
 - Children can be reckless and lack foresight, this fuels the uncertainty at this point in the novel.
 - The moonlight
 	- moonlight - truth
