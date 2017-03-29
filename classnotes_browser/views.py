@@ -31,8 +31,7 @@ def homepage(request):
 def render_md(request, cours, name):
     """renders markdown in html"""
     with open("{}{}/{}.md".format(MD_ROOT, cours, name)) as f:
-        content = """<link rel="shortcut icon" type="image/png" href="/static/favicon.ico"/>""" \
-                  + markdown.markdown(f.read())
+        content = markdown.markdown(f.read())
     return render(request, "classnotes_browser/md_display.html", {"title": name, "md_in": content})
 
 

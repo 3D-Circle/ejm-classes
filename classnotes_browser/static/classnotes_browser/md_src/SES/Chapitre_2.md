@@ -141,11 +141,11 @@ plus elle est proche de 0, plus elle est faible.
 > 
 > Si l'élasticité-prix de la demande est infinie, la courbe est horizontale et le prix est fixe. 
 
-**ATTENTION**: Sur un graphique qui représente une courbe de demande, le prix est représenté en ordonné (axe vertical) et la quantité est représentée en abscisse (axe horizontal).  by[
-tv y
+**ATTENTION**: Sur un graphique qui représente une courbe de demande, le prix est représenté en ordonné (axe vertical) et la quantité est représentée en abscisse (axe horizontal).
+
 **Remarque**:
 
-- la pente négative signale que 
+- la pente négative signale que e<sub>p</sub> < 0
 - la pente est très faible, presque horizontale, ce qui signale que e<sub>p</sub> < -1, c'est à dire que la demande est très élastique.
 
 ### Situation 2
@@ -156,5 +156,5 @@ tv y
 > Si l'élasticité prix de la demande est nulle, la courbe est verticale et la quantité est fixe. 
 **Remarque**:
 
-- la pente négative originale que e<sub>p</sub> < 0
+- la pente négative signqle que e<sub>p</sub> < 0
 - la pente est très forte, presque verticale, ce qui signale que -1 < e<sub>p</sub> < 0, c'est-à-dire que la demande est très inélastique.
