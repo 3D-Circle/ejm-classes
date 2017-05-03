@@ -224,7 +224,7 @@ Venice had monopoly of India before, so he thought that he broke the spice trade
 ---
 
 #### Magellan
-- Portuense explorer
+- Portuguese explorer
 
 ##### Motivation
 - searched for a new passage to Moluccas:
@@ -254,3 +254,79 @@ Venice had monopoly of India before, so he thought that he broke the spice trade
 - desire for unlimited wealth => inequality / polarity of wealth
 
 => Renaissance was made in collaboration with the East
+
+## Ch 5 Science and philosophy
+**Copernicus** - `1543`  
+**Andreas Vesalius** - `1543`  
+**Galileo** - `1602`  
+**Ambroise Paré** - `1552`
+
+### Copernicus (`1473`-`1543`)
+- published *On the revolution of of celestial spheres*
+- astronomer, mathematician, physicist, translator, army leader, economist, ambassador, etc.
+
+### Galileo
+- Italian physicist, mathematician, astronomer and philosopher
+- called the *Father of modern observational astronomy*, *Father of modern physics*, *Father of (modern) science*, etc.
+- confirmation of the faces of Venus, satellite of Jupiter
+- fundamental + applied science: invention of military compas and other instruments
+- embracing Copernicus's findings
+- Feb 1616, he was cleared of any offense from the Catholic Church; the Church nevertheless condemned the heliocentric system as false and heretic. 
+- Galileo promised to stop supporting heliocentric system, but he never did it:  *Dialogue Concerning Two Chief World Systems* was published in **1632**.
+- Roman Inquisition => Galileo = heresy => spent the rest of his life under house arrest
+- Galileo contributed to other fields, such as the *Law of motion* (tower of Pisa)
+- He is remembered for anything dealing with astronomy: name associated with Galileo spacecraft, Galileo global satellite system
+
+### Andreas Vesalius
+- human: blood, bones
+- opened study for all the rest of the body: ear, nervous system, vein system, organs  
+=> fundamentals of understanding of physical structure of the body
+- => anatomy
+- stole corps from cimetery => Against the Church
+- De Humani Corporis Fabrica **1543**
+- revolutionized the field of medecine
+
+### Ambroise Paré
+- leader of surgery and treatment of battle wounds
+- also an anatomist, but not to the extent of Vesalius
+- known for his compassion as well as his surgical skills
+- God, wealth: link with religion
+- surgeons were not highly regarded at all: lowest class of the doctors
+- he served the army and gained a lot of fame through his writing of his *democratic treatment of soldiers of all ranks*.
+- Before the end of his career, he has served as a surgeon to 4 French kings.
+- known not only for his skill, but also for his compassion + what he brought to his patients, doing so in a very human manner (far away from what surgeons did at the time)
+- first medical, and main discovery
+	- gun shots were considered poisonous, and were treated at the time with boiling oil
+	- during the siege of Turin (**1536**-**1537**)
+	- Paré ran out of oil
+	- used a cream instead that would sooth the wound
+	- immediately saw that his patients had improved in condition
+	- **1555**: *The methods of treating wounds*
+- contributed a lot to modern surgery
+- willing to experiment + try, moved away from established methods => modern approach
+- first to develop artificial limb, eye
+
+## Renaissance Art
+### Key aspects
+- Linear perspective <= `Foreshortening`, `Sfumato`, `Chiaroscuro`
+- lighting
+- maths / maths / anatomy / realism / **observation**
+- characterization
+- link to antiquity and religion
+
+### People
+- Michelangelo
+- Rafael
+- Leonardo da Vinci
+
+### Anatomy lesson of Dr Nicolaes Tulp
+
+![Anatomy lesson of Dr Nicolaes Tulp](/static/classnotes_browser/md_src/History/src/renaissance_anatomy_painting.jpg)
+
+- public dissection
+- techniques: `sfumato` + `chias`
+- book at bottom right: probably Vesalius's *Dissection of the human body*
+- person in painting looking out at the public
+- main symbolism: focuses on the world of knowledge (large book, dissection lesson, students all around)
+
+painting => present, analyze, show symbolism
