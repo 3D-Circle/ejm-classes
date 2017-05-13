@@ -6,19 +6,19 @@ Un **`ménage`** désigne « l'ensemble des personnes (apparentées ou non) qui 
 **Ex.** Une famille qui cohabite, un célibataire vivant seul
 
 # I. Les revenus de ménages
-## A) Les ressources des ménages
-### 1. Les différents types de revenus
+
+## A) Les différents types de revenus
 
 	Patrimoine ≠ Revenu
 	     |          |
 	   Stock      Flux
 
-#### - Les revenus salariaux
+### 1. Les revenus salariaux/primaires
 En France, 3/4 des travailleurs sont des salariés.  
 
 Le salaire est la rémunération versée par un employeur à un salarié en contrepartie du travail fourni (conformément au contrat de travail)  
 
-L'Etat a fixé un salaire minimum, le SMIC (Salaire Minimum Interprofessionnel de Croissance) en dessous duquel un employeur ne peut pas descendre
+L'Etat a fixé un salaire minimum, le SMIC (Salaire Minimum Interprofessionnel de Croissance) en dessous duquel un employeur ne peut pas des cendre
 	
 	SMIC 2016: 9,67 €/h
 
@@ -29,20 +29,22 @@ Sachant que le SMIC a augmenté de 0,93% le 01/01/2017, quel est le nouveau SMIC
 > SMIC 2016: `9,67 * 35 * 52 / 12 = 1 466,62 €`  
 > SMIC 2017: `1 466,62 * 1,0093 = 1 480,26 €`
 
-#### - D'autres revenus du travail
-- Les bénéfices
-- Les honoraires
+#### D'autres revenus du travail:
+ 
+ - Les bénéfices
+ - Les honoraires
 
-#### - Les revenus du patrimoine (ou de la propriété ou du captal)
-- Les revenus immobiliers
-	- Ex: le loyer
-- Les revenus mobiliers
+#### Les revenus du patrimoine (ou de la propriété ou du capital):
+
+ - Les revenus immobiliers 
+ 	- Ex: le loyer
+ - Les revenus mobiliers
 	- Ex: dividendes ou intérêts
 
 Les revenus primaires correspondent donc aux revenus versés à ceux qui ont participé à la création de richesses (soit en travaillant, soit en apportant leur patrimoine)
 
 ### 2. Les revenus de transfert
-#### * Les prestations sociales
+#### Les prestations sociales
 Prise en charge collective, des conséquences financières des «risques sociaux», c'est-à-dire de situations susceptibles de compromettre la sécurité économique de l'individu ou de sa famille, par exemple en cas de: 
 
 - Vieillesse
@@ -78,10 +80,10 @@ Rappel:
 	
 Exemple: Si le revenu passe de 1 000 € à 1 100 €: 
 
-> ((1 100 - 1 000) / 1 000) * 100 = + 10 %  
-> Le revenu a donc augmenté de 10 %
+    ((1 100 - 1 000) / 1 000) * 100 = + 10 %  
+    Le revenu a donc augmenté de 10 %
 
-L'élasticité-revenu mesure la sensibilité de la demande à une variation du revenu
+L'élasticité-revenu mesure la sensibilité de la demande à une variation du revenu:
 
 	                      Variation de la quantité demandée d'un bien (en %)
 	L'élasticité-revenu = --------------------------------------------------
@@ -131,10 +133,10 @@ plus elle est proche de 0, plus elle est faible.
 	- 3 possibilités:
 		- *biens Veblen* -> bien de luxe dont l'attrait découle du prix
 		- *biens Giffen* -> bien de première nécessité dont les ménages sont dépendants
-		- *biens spéculatifs* -> plus le prix augmente, plus le prix risque d'augmenter par la suite.
+		- *biens spéculatifs* -> plus le prix augmente, plus le prix risque d'augmenter par la suite (ex: l'immobilier)
 
-## Représentation graphique d'élasticité
-### Situation 1
+## Représentation graphique de l'élasticité
+### Situation 
 ![élasticité 1](/static/classnotes_browser/md_src/SES/src/elasticite1.png)
 
 > Dans le cas d'une courbe de demande très élastique, une petite variation ∆P des prix entraîne une large variation ∆Q de la quantité.
@@ -158,3 +160,34 @@ plus elle est proche de 0, plus elle est faible.
 
 - la pente négative signqle que e<sub>p</sub> < 0
 - la pente est très forte, presque verticale, ce qui signale que -1 < e<sub>p</sub> < 0, c'est-à-dire que la demande est très inélastique.
+
+
+# IV. La consommation, un marqueur social ?
+
+## A) Les choix de consommation: un comportement socialement marqué ?
+
+Au-delà de l'influence économique des revenus et des prix, on peut chercher à savoir si les choix de consommation sont différenciés selon les critères sociaux, c'est à dire en fonction de la profession, du niveau d'éducation, de l'habitat, de l'âge, etc.
+
+### 1. Les PCS
+
+Les PCS, **P**rofessions et **C**atégories **S**ocio-professionelles correspondent à une répartition des actifs français dans plusieurs catégories:
+
+ - Exploitants agricoles
+ - Les artisans, commerçants, chefs d'entreprise
+ - Les cadres et professions intellectuelles supérieures
+ - Les professions intermédiaires
+ - Les employés
+ - Les ouvriers
+
+On peut élargir les facteurs à d'autres: sexe, âge, éducation, lieu d'habitation, ...
+
+
+## B) La consommation, un comportement sous influence ?
+
+*Libres ou influencés ?*
+
+La mode peut se définir comme les codes esthétiques et comportementaux en vigueur dans une société à un moment donné.
+
+L'impact de la mode traduit l'importance des phénomènes **d'imitation** et de **distinction** dans une société. Le phénomène de mode existe également en raison de la **consommation ostentatoire**, c'est à dire la consommation qui a pour but de montrer sa position sociale (ex: biens Weblen).
+
+La publicité renforce le phénomène d'adhésion aux marques qui sont dès alors analysés comme des ((CAN'T READ WHAT I WROTE)) référence, des éléments de status social et des moyens de "paraître" devant les autres.
