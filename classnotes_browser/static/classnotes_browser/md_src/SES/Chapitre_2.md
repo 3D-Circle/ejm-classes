@@ -150,7 +150,7 @@ Remarque: généralement, $$e_p < 0$$, c'est-à-dire qu'une augmentation du prix
 ### Situation 2
 ![élasticité 2](/static/classnotes_browser/md_src/SES/src/elasticite2.png)
 
-> Dans le cas d'une courbe de demande inélastique, une variation ∆P des prix entraîne une faible variation de ∆Q de la quantité.
+> Dans le cas d'une courbe de demande inélastique, une variation $$\Delta P$$ des prix entraîne une faible variation de $$\Delta Q$$ de la quantité.
 >
 > Si l'élasticité prix de la demande est nulle, la courbe est verticale et la quantité est fixe. 
 **Remarque**:
