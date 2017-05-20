@@ -16,7 +16,7 @@ On dit que les produits sont «**homogènes**».
 
 On dit que les acheteurs et les vendeurs sont «**preneurs de prix**» ou qu'iles ne disposent pas de «pouvoir de marché».
 
--
+---
 
 Ces hypothèses correspondent à une forme particulière de marché: le marché en **concurrence parfaite**
 
@@ -64,11 +64,77 @@ Par exemple, si le prix du cacao augmente, la quantité offerte sur ce marché a
 Changement de la quantité offerte
 
 - Déplacement _sur_ la courbe
+- => On se déplace **sur** la courbe de demande d'un point à l'autre
 
 #### - Lorsque des autres facteurs que le prix du produit varie
 - Ex: le prix des facteurs de production, le progrès technique ...
 
 ![courbe d'offre](/static/classnotes_browser/md_src/SES/src/marche_courbe_d_offre_variation.png)
 
+On va déplacer la courbe elle-même, soit vers la gauche, soit vers la droite.
+
 ## C. L'offre et demande
-Equilibre de l'offre et de la demande
+### Équilibre de l'offre et de la demande
+![équilibre de l'offre et de la demande](/static/classnotes_browser/md_src/SES/src/equilibre.png)
+
+### Comment une augmentation de la demande affecte l'équilibre du marché
+![Comment une augmentation de la demande affecte l'équilibre du marché](/static/classnotes_browser/md_src/SES/src/equilibre_d+.png)
+
+1. Un temps chaud augmente la demande de glaces
+2. ... ce qui se traduit par un prix supérieur ...
+3. .... ce qui se se traduit par une augmentation des qualités échangées.
+
+### Commet une baisse de l'offre affecte l'équilibre
+![Commet une baisse de l'offre affect l'équilibre](/static/classnotes_browser/md_src/SES/src/equilibre_o-.png)
+
+1. Un tremblement de terre réduite l'offre de glaces qui détruit des usines de Food-chain de glace
+2. ... ce qui se traduit par un prix supérieur
+3. ... et une plus faible quantité vendue
+
+### Etapes de l'analyse de l'évolution de l'équilibre
+
+1. Déterminer si l'événement modifie la courbe d'offre ou la courbe de demande
+2. 
+	- Déterminer si les courbes se déplacent vers la droit ou vers la gauche  
+	- Dessiner sur un repère la situation initiale d'équilibre et son évolution
+4. Examiner comment le déplacement affecte le prix et la quantité d'équilibre
+
+#### Exemple
+![évolution d'équilibre](/static/classnotes_browser/md_src/SES/src/equilibre_template.png)
+
+## Applications
+(Graphs made with [python sketcher](/static/classnotes_browser/md_src/SES/src/Evolution_d_equilibre_sketch.py))
+
+1. Étudier l'impact d'un été très froid au Maroc, pays grand producteur d'oranges, sur le marché mondial du jus d'orange
+
+    - Déplacement de courbe d'offre &#8592;
+    - Équilibre: Q &#8600; P &#8599;
+    
+    ![analyse 1](/static/classnotes_browser/md_src/SES/src/equilibre-1.png)
+
+2. Étudier l'impact d'un été chaud Casablanca sur le marché des chambres d'hôtel de la ville
+
+    - Déplacement de courbe de demande &#8594;
+    - Équilibre: Q &#8599; P &#8599;
+
+    ![analyse 2](/static/classnotes_browser/md_src/SES/src/equilibre-2.png)
+
+3. Etudier l'impact d'une guerre au Moyen-Orient sur le marché du pétrole puis sur le marché des voitures d'occasion
+
+    - Déplacement de courbe d'offre &#8592;
+    - Équilibre: Q &#8600; P &#8599;
+
+    ![analyse 3-1](/static/classnotes_browser/md_src/SES/src/equilibre-3-1.png)
+
+    - Déplacement de courbe de demande &#8592;
+    - Équlibre: Q &#8600; P &#8600;
+
+    ![analyse 3-2](/static/classnotes_browser/md_src/SES/src/equilibre-3-2.png)
+
+4. Etudier l'impact de la mise en place d'un prix maximum autorisé par la mairie de Paris pour la location des appartements sur la capitale
+
+    - Déplacement **sur** la courbe d'offre &#8592;
+    - Déplacement **sur** la courbe de demande &#8594;
+    - => pas d'équilibre: excédent de demande
+
+![analyse 4](/static/classnotes_browser/md_src/SES/src/equilibre-4.png)
