@@ -171,8 +171,7 @@ Elle se calcule en divisant la production par l’un des facteurs de production 
 ### B. Combien produire?
 #### 1. La création de richesse
 
-
-	Valeur ajoutée = Chiffre d'Affaires - Consommation intermédiaire
+Valeur ajoutée = Chiffre d'Affaires - Consommation intermédiaire
 
 (`Valeur ajoutée` ≠ `bénéfice` et `valeur ajoutée` > `bénéfice`)
 
@@ -193,4 +192,4 @@ Elle se calcule en divisant la production par l’un des facteurs de production 
 	- taux réduit: 15 %
 
 #### 3. Le bénéfice
-	Bénéfice = Chiffre d'Affaires - Coûts de production								
+	Bénéfice = Chiffre d'Affaires - Coûts de production

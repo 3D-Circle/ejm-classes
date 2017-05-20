@@ -31,8 +31,9 @@ def homepage(request):
 def render_md(request, cours, name):
     """renders markdown in html"""
     with open("{}{}/{}.md".format(MD_ROOT, cours, name)) as f:
-        content = markdown.markdown(f.read())
-    return render(request, "classnotes_browser/md_display.html", {"title": name, "md_in": content})
+        md_input = f.read()
+        html_output = markdown.markdown(md_input)
+    return render(request, "classnotes_browser/md_display.html", {"title": name, "md_in": html_output})
 
 
 def cours_dir(request, subject):

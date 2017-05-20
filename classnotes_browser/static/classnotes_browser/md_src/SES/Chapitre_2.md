@@ -19,14 +19,14 @@ En France, 3/4 des travailleurs sont des salariés.
 Le salaire est la rémunération versée par un employeur à un salarié en contrepartie du travail fourni (conformément au contrat de travail)  
 
 L'Etat a fixé un salaire minimum, le SMIC (Salaire Minimum Interprofessionnel de Croissance) en dessous duquel un employeur ne peut pas des cendre
-	
-	SMIC 2016: 9,67 €/h
+
+	SMIC 2016: $$9,67 €/h$$
 
 **Question:**  
 Quel était le SMIC mensuel en 2016? (35h hebdomadaire et 52 semaines/an)  
 Sachant que le SMIC a augmenté de 0,93% le 01/01/2017, quel est le nouveau SMIC mensuel?
 
-> SMIC 2016: `9,67 * 35 * 52 / 12 = 1 466,62 €`  
+> SMIC 2016: `9,67 * 35 * 52 / 12 = 1 466,62 €`
 > SMIC 2017: `1 466,62 * 1,0093 = 1 480,26 €`
 
 #### D'autres revenus du travail:
@@ -73,63 +73,60 @@ On utilise un indicateur qui s'appelle **l'élasticité** pour **mesurer** l'imp
 
 Rappel:
 	
-	Calcul d'une variation en %:
-		 Vf - Vi 
-		--------- * 100
-		    Vi 		
-	
+> Calcul d'une variation en %:
+> $$\frac{V_f - V_i}{V_i} * 100$$
+
 Exemple: Si le revenu passe de 1 000 € à 1 100 €: 
 
-    ((1 100 - 1 000) / 1 000) * 100 = + 10 %  
+    ((1 100 - 1 000) / 1 000) * 100 = + 10 %
     Le revenu a donc augmenté de 10 %
 
 L'élasticité-revenu mesure la sensibilité de la demande à une variation du revenu:
 
-	                      Variation de la quantité demandée d'un bien (en %)
-	L'élasticité-revenu = --------------------------------------------------
-		  						   	Variation du revenu (en %)
+$$e_r = \frac{\Delta Q}{\Delta R}$$
+
+où $$\Delta Q$$ est la variation de la quantité demandée d'un bien (en %) et $$\Delta R$$ est la variation du revenu (en %).
  		  						  	
 **Remarque**: pas d'unité
 
 Ex: Si la demande de téléphones augmente de 5% suite à une augmentation du revenu des ménages de 10%, alors:  
-	e<sub>r</sub> = 5 / 10 0,5  
+
+$$e_r = 5 / 10 = 0,5$$
 
 L'élasticité-revenu de la demande de ce bien est de 0,5.
 
 **Synthèse**	
 
-- Lorsque l'élasticité est < 0, on dit que les biens sont **inférieurs**
+- Lorsque $$e_p < 0$$, on dit que les biens sont **inférieurs**
 	- Ex: produits bas de gamme
-- Lorsque 0 ≤ e<sub>r</sub> ≤ 1, les biens sont dits **normaux**
+- Lorsque $$0 \leq e_r \leq 1$$, les biens sont dits **normaux**
 	- Ex: les biens les plus courants
-	- cas particulier: e<sub>r</sub> = 0
-- Lorsque e<sub>r</sub> > 1, les biens sont dits **supérieurs**
+	- cas particulier: $$e_r = 0$$
+- Lorsque $$e_r > 1$$, les biens sont dits **supérieurs**
 	- Ex: les biens de luxe
 
 
 # III. L'influence des prix sur la consommation
-Comment évolue la demande d'un bien si son prix augmente?  
+Comment évolue la demande d'un bien si son prix augmente?
 Et si son prix diminue?
 
 L'élasticité-prix mesure la sensibilité de la demande à une variation de prix
 
-						 Variation de la quantité demandée d'un bien (en %)
-	L'élasticité-prix = ----------------------------------------------------
-           					 Variation du prix de ce bien (en %)
+$$e_p = \frac{\Delta Q}{\Delta P}$$
+
+où $$\Delta Q$$ est la variation de la quantité demandée d'un bien (en %) et $$\Delta P$$ est la variation du prix de ce bien (en %).
 
 *Ex:* Si la demande de téléphones diminue de 5 % suite à une augmentation du prix de ce bien de 2 %, alors:
 
-> e<sub>p</sub> = - 5 / 2 = -2, 5
+> $$e_p = - 5 / 2 = -2, 5$$
 
-Remarque: généralement, e<sub>p</sub> < 0, c'est-à-dire qu'une augmentation du prix d'un bien conduit à la diminution de sa demande (et inversement)
+Remarque: généralement, $$e_p < 0$$, c'est-à-dire qu'une augmentation du prix d'un bien conduit à la diminution de sa demande (et inversement)
 
-- Lorsque e<sub>p</sub> ≤ -1, la **demande est élastique**
-- Lorsque -1 < e<sub>p</sub> < 0, la **demande est inélastique**
-- (Lorsque e<sub>p</sub> = 0, la demande est indépendante)
-- =>  
-plus l'élasticité-prix est loin de 0, plus elle est forte;  
-plus elle est proche de 0, plus elle est faible.
-- *Situations exceptionnelles:* e<sub>p</sub> > 0
+- Lorsque $$e_p \leq -1$$, la **demande est élastique**
+- Lorsque $$-1 < e_p < 0$$, la **demande est inélastique**
+- Lorsque $$e_p = 0$$, la demande est indépendante
+- => plus $$e_p$$ est loin de 0, plus elle est forte; plus elle est proche de 0, plus elle est faible.
+- *Situations exceptionnelles:* $$e_p > 0$$
 	- 3 possibilités:
 		- *biens Veblen* -> bien de luxe dont l'attrait découle du prix
 		- *biens Giffen* -> bien de première nécessité dont les ménages sont dépendants
@@ -139,7 +136,7 @@ plus elle est proche de 0, plus elle est faible.
 ### Situation 
 ![élasticité 1](/static/classnotes_browser/md_src/SES/src/elasticite1.png)
 
-> Dans le cas d'une courbe de demande très élastique, une petite variation ∆P des prix entraîne une large variation ∆Q de la quantité.
+> Dans le cas d'une courbe de demande très élastique, une petite variation $$\Delta P$$ des prix entraîne une large variation $$\Delta Q$$ de la quantité.
 > 
 > Si l'élasticité-prix de la demande est infinie, la courbe est horizontale et le prix est fixe. 
 
@@ -147,8 +144,8 @@ plus elle est proche de 0, plus elle est faible.
 
 **Remarque**:
 
-- la pente négative signale que e<sub>p</sub> < 0
-- la pente est très faible, presque horizontale, ce qui signale que e<sub>p</sub> < -1, c'est à dire que la demande est très élastique.
+- la pente négative signale que $$e_p < 0$$
+- la pente est très faible, presque horizontale, ce qui signale que $$e_p < -1$$, c'est à dire que la demande est très élastique.
 
 ### Situation 2
 ![élasticité 2](/static/classnotes_browser/md_src/SES/src/elasticite2.png)
@@ -158,8 +155,8 @@ plus elle est proche de 0, plus elle est faible.
 > Si l'élasticité prix de la demande est nulle, la courbe est verticale et la quantité est fixe. 
 **Remarque**:
 
-- la pente négative signqle que e<sub>p</sub> < 0
-- la pente est très forte, presque verticale, ce qui signale que -1 < e<sub>p</sub> < 0, c'est-à-dire que la demande est très inélastique.
+- la pente négative signale que $$e_p < 0$$
+- la pente est très forte, presque verticale, ce qui signale que $$-1 < e_p < 0$$, c'est-à-dire que la demande est très inélastique.
 
 
 # IV. La consommation, un marqueur social ?
@@ -170,7 +167,7 @@ Au-delà de l'influence économique des revenus et des prix, on peut chercher à
 
 ### 1. Les PCS
 
-Les PCS, **P**rofessions et **C**atégories **S**ocio-professionelles correspondent à une répartition des actifs français dans plusieurs catégories:
+Les PCS, **P**rofessions et **C**atégories **S**ocio-professionnelles correspondent à une répartition des actifs français dans plusieurs catégories:
 
  - Exploitants agricoles
  - Les artisans, commerçants, chefs d'entreprise
@@ -188,6 +185,7 @@ On peut élargir les facteurs à d'autres: sexe, âge, éducation, lieu d'habita
 
 La mode peut se définir comme les codes esthétiques et comportementaux en vigueur dans une société à un moment donné.
 
-L'impact de la mode traduit l'importance des phénomènes **d'imitation** et de **distinction** dans une société. Le phénomène de mode existe également en raison de la **consommation ostentatoire**, c'est à dire la consommation qui a pour but de montrer sa position sociale (ex: biens Weblen).
+L'impact de la mode traduit l'importance des phénomènes **d'imitation** et de **distinction** dans une société.
+Le phénomène de mode existe également en raison de la **consommation ostentatoire**, c'est à dire la consommation qui a pour but de montrer sa position sociale (ex: biens Weblen).
 
 La publicité renforce le phénomène d'adhésion aux marques qui sont dès alors analysés comme des ((CAN'T READ WHAT I WROTE)) référence, des éléments de status social et des moyens de "paraître" devant les autres.
