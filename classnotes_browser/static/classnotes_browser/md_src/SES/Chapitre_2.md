@@ -183,9 +183,21 @@ On peut élargir les facteurs à d'autres: sexe, âge, éducation, lieu d'habita
 
 *Libres ou influencés ?*
 
-La mode peut se définir comme les codes esthétiques et comportementaux en vigueur dans une société à un moment donné.
+La mode peut se définir comme les codes *esthétiques* et *comportementaux* en vigueur dans une société *à un moment donné*.
 
 L'impact de la mode traduit l'importance des phénomènes **d'imitation** et de **distinction** dans une société.
 Le phénomène de mode existe également en raison de la **consommation ostentatoire**, c'est à dire la consommation qui a pour but de montrer sa position sociale (ex: biens Weblen).
 
 La publicité renforce le phénomène d'adhésion aux marques qui sont dès alors analysés comme des ((CAN'T READ WHAT I WROTE)) référence, des éléments de status social et des moyens de "paraître" devant les autres.
+
+#### Synthèse _(du document)_:
+
+La **consommation** permet au différents agents économiques (ménages, mais aussi entreprises ou administrations de satisfaire un certain nombre de **besoins**.
+Elle dépend tout d'abord du **revenu** des consommateurs et du **prix** des biens ou des services proposés à la consommation.
+
+Cependant, la consommation est un **acte social** qui permet aux individus et aux ménages de manifester leur appartenance à un **groupe social** ou leur volonté d'accéder à un groupe social.
+
+C'est pourquoi un acte de consommation peut être la manifestation d'un désir d'imiter un groupe social modèle: il s'agit de **l'effet d'imitation**; il peut aussi être la traduction d'une volonté de se distinguer des autres, par exemple pour se démarquer en affirmant son appartenance à un groupe social plus élevé que le sien.
+On parle alors **d'effet de distinction**; celui si peut alors se traduire par une consommation ostentatoire dont le but est de montrer aux autres la supériorité de sa propre position.
+
+ On appelle société de consommation la société qui veut susciter toujours plus de besoins de la part des consommateurs.
